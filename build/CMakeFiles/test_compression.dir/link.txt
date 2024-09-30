@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_compression.dir/tests/test_compression.c.o -o test_compression  libsecure_comm.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so -lpthread 

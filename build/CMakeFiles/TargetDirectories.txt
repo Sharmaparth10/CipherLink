@@ -1,0 +1,8 @@
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/secure_comm.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/test_compression.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/test_session.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/test_utils.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/client.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/server.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/edit_cache.dir
+/home/work/Desktop/secure-comm_library/build/CMakeFiles/rebuild_cache.dir

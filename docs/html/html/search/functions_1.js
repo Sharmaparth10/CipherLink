@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['cleanup_5flogging_78',['cleanup_logging',['../utils_8c.html#a8117ab0ab6538f32c5384a79eb4f0842',1,'cleanup_logging():&#160;utils.c'],['../secure__comm_8h.html#a8117ab0ab6538f32c5384a79eb4f0842',1,'cleanup_logging():&#160;utils.c']]],
+  ['cleanup_5fnetworking_79',['cleanup_networking',['../networking_8c.html#a9b8e19aaef85baf6ad836b3ed31f1aba',1,'cleanup_networking():&#160;networking.c'],['../secure__comm_8h.html#a9b8e19aaef85baf6ad836b3ed31f1aba',1,'cleanup_networking():&#160;networking.c']]],
+  ['close_5fconnection_80',['close_connection',['../networking_8c.html#aec8924e5e091377880cd2ee77546b034',1,'close_connection(SecureConnection *conn):&#160;networking.c'],['../secure__comm_8h.html#aec8924e5e091377880cd2ee77546b034',1,'close_connection(SecureConnection *conn):&#160;networking.c']]],
+  ['compress_5fdata_81',['compress_data',['../compression_8c.html#a88337b4cf6a42217d56acb642796076c',1,'compression.c']]],
+  ['compress_5fdata_5fdynamic_82',['compress_data_dynamic',['../compression_8c.html#aa96e36f762e1619b40e27c9133baee8d',1,'compress_data_dynamic(const unsigned char *input, size_t input_len, unsigned char **compressed_ptr, size_t *compressed_len, int level):&#160;compression.c'],['../secure__comm_8h.html#aa96e36f762e1619b40e27c9133baee8d',1,'compress_data_dynamic(const unsigned char *input, size_t input_len, unsigned char **compressed_ptr, size_t *compressed_len, int level):&#160;compression.c']]],
+  ['create_5fconnection_83',['create_connection',['../networking_8c.html#afc50cccb3bf9817f81dc3e053d41f37a',1,'create_connection(const char *address, int port, SecureCommError *error):&#160;networking.c'],['../secure__comm_8h.html#afc50cccb3bf9817f81dc3e053d41f37a',1,'create_connection(const char *address, int port, SecureCommError *error):&#160;networking.c']]]
+];

@@ -1,0 +1,4 @@
+[2024-09-29 00:05:13] [ERROR] This is an ERROR message.
+[2024-09-29 00:05:13] [WARN] This is a WARN message.
+[2024-09-29 00:05:13] [INFO] This is an INFO message.
+[2024-09-29 00:05:13] [DEBUG] This is a DEBUG message.

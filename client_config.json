@@ -1,0 +1,7 @@
+{
+      "server_address": "127.0.0.1",
+      "server_port": 8080,
+      "log_level": "DEBUG",
+      "log_file_path": "client_log.txt"
+  }
+  

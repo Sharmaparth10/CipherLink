@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['secure_5fcomm_5ferr_5faddress_121',['SECURE_COMM_ERR_ADDRESS',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a20453e26f2ada6010f1dbd9edd779407',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fcompress_122',['SECURE_COMM_ERR_COMPRESS',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a50f2000a91b232e4d5b9419dd69e1a42',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fconfig_123',['SECURE_COMM_ERR_CONFIG',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55aa6369c8572e29e128df9ea0475eda78e',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fconnect_124',['SECURE_COMM_ERR_CONNECT',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55af8914162327a1f21fc592ca5ed8f4cc4',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fdecompress_125',['SECURE_COMM_ERR_DECOMPRESS',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a428ed401df316202c79551eda687bd2f',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fdecrypt_126',['SECURE_COMM_ERR_DECRYPT',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55aa32cefd0f404005dc2db12d045bae666',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fencrypt_127',['SECURE_COMM_ERR_ENCRYPT',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a598b4ce2c2f6f06394a64b4bb897778e',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5finit_128',['SECURE_COMM_ERR_INIT',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a52b59202c30530f6354e9ccb1b304f20',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5flog_129',['SECURE_COMM_ERR_LOG',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55ad1f6ba605d05d11ec087db1f806d6220',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fmemory_130',['SECURE_COMM_ERR_MEMORY',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a6d9a323076646789a1ba3da72667f279',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5frecv_131',['SECURE_COMM_ERR_RECV',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a72406ad6bd23c4244b42a87e3bf13eba',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fsend_132',['SECURE_COMM_ERR_SEND',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a2240e00bc03ee6750f3424a18ae5dbf2',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fsession_133',['SECURE_COMM_ERR_SESSION',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55af7451998866912803fe6fcd259be19f4',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fsocket_134',['SECURE_COMM_ERR_SOCKET',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a426baa0e20148201a7a00c6a2b3bb013',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fssl_135',['SECURE_COMM_ERR_SSL',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a3084a0d0fbc95c61f9084275a20d61e8',1,'secure_comm.h']]],
+  ['secure_5fcomm_5ferr_5fssl_5fctx_136',['SECURE_COMM_ERR_SSL_CTX',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55af04497265a443f17d1ae9407cc41951c',1,'secure_comm.h']]],
+  ['secure_5fcomm_5fsuccess_137',['SECURE_COMM_SUCCESS',['../secure__comm_8h.html#a145e97dc1021fe8ff5a651c073937d55a89183e45d5c4f3ad6beea760cd97b862',1,'secure_comm.h']]]
+];

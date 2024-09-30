@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_utils.dir/tests/test_utils.c.o -o test_utils  libsecure_comm.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so -lpthread 

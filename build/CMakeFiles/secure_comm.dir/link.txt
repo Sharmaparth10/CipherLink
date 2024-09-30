@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsecure_comm.a CMakeFiles/secure_comm.dir/src/compression.c.o CMakeFiles/secure_comm.dir/src/encryption.c.o CMakeFiles/secure_comm.dir/src/session.c.o CMakeFiles/secure_comm.dir/src/utils.c.o CMakeFiles/secure_comm.dir/libs/cJSON/cJSON.c.o
+/usr/bin/ranlib libsecure_comm.a

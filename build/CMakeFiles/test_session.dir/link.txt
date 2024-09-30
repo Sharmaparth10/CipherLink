@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_session.dir/tests/test1_session.c.o -o test_session  libsecure_comm.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so -lpthread 
